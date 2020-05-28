@@ -1,6 +1,4 @@
-# MonilMayur.Modi.BDAT1004PS1
-
-<strong>Repository for Problem Set 1<strong>
+#Repository for Problem Set 1
 
 Course: BDAT1004 - Data Programming <br>
 Student No: 200460907 <br>
